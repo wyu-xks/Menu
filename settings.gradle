@@ -1,0 +1,2 @@
+include ':app', ':hellocharts-library', ':hellofromjni', ':jnitest'
+include ':library'
